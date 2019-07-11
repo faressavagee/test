@@ -1,6 +1,6 @@
-owner=«Ï œÏ Õﬁﬂ
-prefix=!
-game=Me | !play
+owner=540654145355382784
+prefix=h
+game=hogan
 stayinchannel=true
 songinstatus=false
-token= ‹‹‹Êﬂ‹‹‹‰ »‹‹Ê ‹ﬂ
+token=NTk4OTgyNDA1NjcxNjE2NTEy.XSej9g.Q3WCNGuJx0Ci-kepiTXC-zFhDJc
